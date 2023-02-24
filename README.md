@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# Ride Share Customer Analysis
 
 ## Overview
 In this project, I used Pandas libraries, the Jupyter Notebook, and Matplotlib to create a variety of charts showcasing the relationship between the type of city and the number of drivers and riders, as well as the percentage of total fares, riders, and drivers by type of city. The analysis and visualizations were used by the ride sharing company to improve access to ridesharing services and determine affordability for underserved neighborhoods.
